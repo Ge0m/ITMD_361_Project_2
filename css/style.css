@@ -45,3 +45,24 @@ header {
   text-align:center;
   font-family: "Verdana", sans-serif;
 }
+
+.about {
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  margin: 2%;
+}
+
+.info {
+  margin: 6%;
+  border: 3px solid black;
+  padding: 1%;
+}
+
+footer {
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  width: 100%;
+  background-color: #333;
+  color: #fff;
+  bottom: 0;
+}
