@@ -46,6 +46,10 @@ header {
   font-family: "Verdana", sans-serif;
 }
 
+main {
+  text-align: center;
+}
+
 .about {
   text-align: center;
   font-family: "Verdana", sans-serif;
