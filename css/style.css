@@ -124,3 +124,11 @@ footer {
   margin: 6%;
   padding: 2%;
 }
+
+#Warframe {
+  border-style: dashed;
+  border-color: #728edb;
+  background-color: rgba(184, 194, 224, 0.3);
+  margin: 6%;
+  padding: 2%;
+}
