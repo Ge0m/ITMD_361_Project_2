@@ -8,8 +8,10 @@ body {
   width: 100%;
   background-color: #333;
   text-align: center;
-  top: 0;
+  /* Need to find a way to stop overlapping from occurring with header first
+  top: 0%;
   position: fixed;
+  */
 }
 
 .nav ul {  
