@@ -73,19 +73,22 @@ footer {
 }
 
 .education {
-  border: 2px solid black;
+  border: 3px solid black;
   margin: 50px;
   padding: 20px;
+  background-color: rgba(154, 190, 252, 0.3)
 }
 
 .work {
-  border: 2px solid black;
+  border: 3px solid black;
   margin: 50px;
   padding: 20px;
+  background-color: rgba(154, 190, 252, 0.3)
 }
 
 .skills {
-  border: 2px solid black;
+  border: 3px solid black;
   margin: 50px;
   padding: 20px;
+  background-color: rgba(154, 190, 252, 0.3)
 }
