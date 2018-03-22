@@ -98,4 +98,21 @@ footer {
   padding: 0px;
   margin: 10px;
 }
+.gamelist{
+  width: 100%;
+  text-align: center;
+}
 
+.gamelist ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.gamelist li a {
+  display: block;
+  text-align: center;
+  padding: .5em;
+}
