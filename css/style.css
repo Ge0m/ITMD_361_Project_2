@@ -145,3 +145,10 @@ footer {
   margin: 6%;
   padding: 2%;
 }
+
+@media screen and (max-width: 900px){
+  .nav li{
+    float: none;
+    width: 100%;
+  }
+}
