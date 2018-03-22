@@ -103,7 +103,7 @@ footer {
 }
 
 .lists {
-  list-style-type: square;
+  list-style-type: none;
   padding: 0px;
   margin: 10px;
 }
