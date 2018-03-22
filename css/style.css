@@ -48,6 +48,7 @@ header {
 
 main {
   text-align: center;
+  font-family: "Verdana", sans-serif;
 }
 
 .about {
@@ -69,4 +70,22 @@ footer {
   background-color: #333;
   color: #fff;
   bottom: 0;
+}
+
+.education {
+  border: 2px solid black;
+  margin: 50px;
+  padding: 20px;
+}
+
+.work {
+  border: 2px solid black;
+  margin: 50px;
+  padding: 20px;
+}
+
+.skills {
+  border: 2px solid black;
+  margin: 50px;
+  padding: 20px;
 }
