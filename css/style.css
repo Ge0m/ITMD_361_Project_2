@@ -92,3 +92,10 @@ footer {
   padding: 20px;
   background-color: rgba(154, 190, 252, 0.3)
 }
+
+.lists {
+  list-style-type: square;
+  padding: 0px;
+  margin: 10px;
+}
+
