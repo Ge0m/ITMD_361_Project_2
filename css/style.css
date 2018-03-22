@@ -57,6 +57,11 @@ main {
   margin: 2%;
 }
 
+.flag {
+  border: 1px black solid;
+  padding: 0%;
+}
+
 .info {
   margin: 6%;
   border: 3px solid black;
