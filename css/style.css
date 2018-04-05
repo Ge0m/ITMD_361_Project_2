@@ -87,21 +87,27 @@ footer {
   border: 3px solid black;
   margin: 50px;
   padding: 20px;
-  background-color: rgba(154, 190, 252, 0.3)
+  background-color: rgba(154, 190, 252, 0.3);
+  width: 600px;
+  float: left;
 }
 
 .work {
   border: 3px solid black;
   margin: 50px;
   padding: 20px;
-  background-color: rgba(154, 190, 252, 0.3)
+  background-color: rgba(154, 190, 252, 0.3);
+  width: 600px;
+  float: left;
 }
 
 .skills {
   border: 3px solid black;
   margin: 50px;
   padding: 20px;
-  background-color: rgba(154, 190, 252, 0.3)
+  background-color: rgba(154, 190, 252, 0.3);
+  width: 600px;
+  float: left;
 }
 
 .lists {
